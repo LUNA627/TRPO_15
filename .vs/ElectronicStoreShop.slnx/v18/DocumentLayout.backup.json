@@ -1,0 +1,752 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\mainproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\mainproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\windowstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\windowstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\stackpanelstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\stackpanelstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\textblockstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\textblockstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\managerpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\managerpasswordpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\view\u0441hangespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\view\u0441hangespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\changesbrandpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\changesbrandpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\changescategorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\changescategorypage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\changesproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\changesproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\changestagpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\changestagpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\viewchangesbrands.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\viewchangesbrands.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\viewchangescategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\viewchangescategories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\viewchangesproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\viewchangesproducts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\viewchangestags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\viewchangestags.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\mainproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\mainproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\managerpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\managerpasswordpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\view\u0441hangespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\view\u0441hangespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\changesproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\changesproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\viewchangesproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\viewchangesproducts.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\viewchangestags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\viewchangestags.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\comboboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\comboboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\borderstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\borderstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\validation\\ratingvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\validation\\ratingvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\validation\\emptyfieldvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\validation\\emptyfieldvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\viewchangescategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\viewchangescategories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\viewchangesbrands.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\viewchangesbrands.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\changescategorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\changescategorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\changesbrandpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\changesbrandpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\models\\product.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\models\\product.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\changespages\\changestagpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\changespages\\changestagpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\enterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\enterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\migrations\\electronicstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\migrations\\electronicstorecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\pages\\enterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\pages\\enterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\passwordboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\passwordboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\models\\electronicstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\models\\electronicstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\validation\\strockvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\validation\\strockvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\textboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\textboxstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\validation\\pricevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\validation\\pricevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\labelstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\labelstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|c:\\users\\luna0_0\\desktop\\\u0442\u0440\u043F\u043E\\\u0442\u0440\u043F\u043E_15\\electronicstoreshop\\electronicstoreshop\\styles\\listviewstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB19D1B7-7E6B-AA28-54CE-7E7A6460903F}|ElectronicStoreShop\\ElectronicStoreShop.csproj|solutionrelative:electronicstoreshop\\styles\\listviewstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChangesCategoryPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesCategoryPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesCategoryPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesCategoryPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesCategoryPage.xaml.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAkwJQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T03:48:23.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangesBrandPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesBrandPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesBrandPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesBrandPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesBrandPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T03:46:59.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "View\u0421hangesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\View\u0421hangesPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\View\u0421hangesPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\View\u0421hangesPage.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\View\u0421hangesPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T18:33:45.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerPasswordPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ManagerPasswordPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ManagerPasswordPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ManagerPasswordPage.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ManagerPasswordPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T09:51:12.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\MainProductPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\MainProductPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\MainProductPage.xaml*",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\MainProductPage.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T06:04:19.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\WindowStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\WindowStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\WindowStyles.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\WindowStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-25T08:24:40.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChangesProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesProductPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesProductPage.xaml.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAiwOcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:40:24.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChangesTagPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesTagPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesTagPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesTagPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesTagPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T19:03:55.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewChangesBrands.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesBrands.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesBrands.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesBrands.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesBrands.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAFoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T13:23:44.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewChangesCategories.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesCategories.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesCategories.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesCategories.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesCategories.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T13:24:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewChangesProducts.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesProducts.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesProducts.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesProducts.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesProducts.xaml.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowDkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T08:28:08.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewChangesTags.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesTags.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesTags.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesTags.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesTags.xaml.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswFQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T13:24:12.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\MainProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\MainProductPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\MainProductPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\MainProductPage.xaml.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAwwC4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T19:06:46.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManagerPasswordPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ManagerPasswordPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ManagerPasswordPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ManagerPasswordPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ManagerPasswordPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:36:13.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "View\u0421hangesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\View\u0421hangesPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\View\u0421hangesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\View\u0421hangesPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\View\u0421hangesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T19:02:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChangesProductPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesProductPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesProductPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesProductPage.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T06:30:22.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ViewChangesProducts.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesProducts.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesProducts.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesProducts.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesProducts.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T19:29:14.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ViewChangesTags.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesTags.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesTags.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesTags.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesTags.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T13:20:22.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\MainWindow.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-25T08:54:42.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RatingValidation.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Validation\\RatingValidation.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Validation\\RatingValidation.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Validation\\RatingValidation.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Validation\\RatingValidation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:26:43.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmptyFieldValidation.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Validation\\EmptyFieldValidation.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Validation\\EmptyFieldValidation.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Validation\\EmptyFieldValidation.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Validation\\EmptyFieldValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:09:09.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ViewChangesCategories.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesCategories.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesCategories.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesCategories.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesCategories.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T13:13:52.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ViewChangesBrands.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesBrands.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesBrands.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesBrands.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ViewChangesBrands.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T13:13:56.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChangesCategoryPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesCategoryPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesCategoryPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesCategoryPage.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesCategoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T17:13:51.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ChangesBrandPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesBrandPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesBrandPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesBrandPage.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesBrandPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T03:44:15.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Models\\Product.Extensions.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Models\\Product.Extensions.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Models\\Product.Extensions.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Models\\Product.Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:07:37.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Models\\Product.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T04:17:03.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ChangesTagPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesTagPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesTagPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\ChangesPages\\ChangesTagPage.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\ChangesPages\\ChangesTagPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T09:42:25.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\EnterPage.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\EnterPage.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\EnterPage.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\EnterPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T09:51:10.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ElectronicStoreContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Migrations\\ElectronicStoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Migrations\\ElectronicStoreContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Migrations\\ElectronicStoreContextModelSnapshot.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Migrations\\ElectronicStoreContextModelSnapshot.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:07:17.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EnterPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\EnterPage.xaml.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Pages\\EnterPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Pages\\EnterPage.xaml.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Pages\\EnterPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:42:22.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ElectronicStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Models\\ElectronicStoreContext.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Models\\ElectronicStoreContext.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Models\\ElectronicStoreContext.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Models\\ElectronicStoreContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T17:33:40.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StrockValidation.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Validation\\StrockValidation.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Validation\\StrockValidation.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Validation\\StrockValidation.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Validation\\StrockValidation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T18:40:20.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PriceValidation.cs",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Validation\\PriceValidation.cs",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Validation\\PriceValidation.cs",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Validation\\PriceValidation.cs",
+              "RelativeToolTip": "ElectronicStoreShop\\Validation\\PriceValidation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T16:16:18.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LabelStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\LabelStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\LabelStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\LabelStyles.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\LabelStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T08:36:34.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ListViewStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\ListViewStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\ListViewStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\ListViewStyles.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\ListViewStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T06:08:39.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "20e83850-822b-4aa6-b7fe-dea869cba5cb",
+        "Display": 0,
+        "X": 396,
+        "Y": 53,
+        "Width": 1140,
+        "Height": 864,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TextBlockStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\TextBlockStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\TextBlockStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\TextBlockStyles.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\TextBlockStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T08:37:27.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PasswordBoxStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\PasswordBoxStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\PasswordBoxStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\PasswordBoxStyles.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\PasswordBoxStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T12:43:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackPanelStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\StackPanelStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\StackPanelStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\StackPanelStyles.xaml*",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\StackPanelStyles.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T08:41:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BorderStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\BorderStyle.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\BorderStyle.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\BorderStyle.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\BorderStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T12:50:17.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TextBoxStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\TextBoxStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\TextBoxStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\TextBoxStyles.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\TextBoxStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T12:43:34.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ComboBoxStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\ComboBoxStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\ComboBoxStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\ComboBoxStyles.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\ComboBoxStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T16:40:45.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ButtonStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\ButtonStyles.xaml",
+              "RelativeDocumentMoniker": "ElectronicStoreShop\\Styles\\ButtonStyles.xaml",
+              "ToolTip": "C:\\Users\\LUNA0_0\\Desktop\\\u0422\u0420\u041F\u041E\\\u0422\u0420\u041F\u041E_15\\ElectronicStoreShop\\ElectronicStoreShop\\Styles\\ButtonStyles.xaml",
+              "RelativeToolTip": "ElectronicStoreShop\\Styles\\ButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-23T06:45:28.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
